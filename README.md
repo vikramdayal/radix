@@ -1,3 +1,8 @@
+
+# My Fork
+
+Radix seems to be missing some fuctionality, especially in the area of evalScript. This fork utilizes templates to streamline the way Lua scripts are called. Take a look at the examples on how to use the scripts.
+
 # Radix
 
 [![Build Status](https://travis-ci.org/mediocregopher/radix.svg)](https://travis-ci.org/mediocregopher/radix)
